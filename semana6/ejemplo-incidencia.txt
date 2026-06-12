@@ -1,0 +1,4 @@
+{
+  "tipo": "Recoleccion de basura",
+  "descripcion": "La comunidad reporta que la basura del parque no ha sido recogida desde hace varios días."
+}
